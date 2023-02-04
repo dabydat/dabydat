@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects that helps  my coutry to reach at least the top of the technology world<br>🌱 I’m currently learning DevOps culture, Django and FastAPI, and VueJS<br><br>I'm an IT Engineer that like to help each others and get experiences that let me improve myself in all the ways
+🔭 I’m currently working on projects that helps  my country to reach at least the top of the technology world<br>🌱 I’m currently learning DevOps culture, Django and FastAPI, and VueJS<br><br>I'm an IT Engineer that like to help each others and get experiences that let me improve myself in all the ways
 
 
 ## 🌐 Socials:
