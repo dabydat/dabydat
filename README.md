@@ -4,7 +4,7 @@ I don't know what means **"Full Stack Developer"** but I'm going to explaint wha
 
 Actually in my job I am developing some projects in Laravel, React and learning Java. 
 
-## About Me
+## 📄 About Me
 
 I've been programming in different languages. When I get into this IT World, I begin as UI/UX Designer and I can say that I can make wireframes, components, color palettes and some designs in Figma, AdobeXD and Illustrator. 
 
@@ -27,6 +27,10 @@ The technologies I've been used are the next:
 - Another Skills
 
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+
+If you wanna see some of my projects, get into the stars projects on my github profile. They are separated by list and you can see them depending of your preferences. Click in the github badge below this:
+     
+  [![GITHUB](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/dabydat?tab=stars) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-g%C3%B3mez-501b85169/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/171364/dabydat) 
