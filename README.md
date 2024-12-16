@@ -2,7 +2,7 @@
 
 I don't know what means **"Full Stack Developer"** but I'm going to explaint what can I do and what are the technologies I've used in past and now. 
 
-Actually in my job I am developing some projects in Laravel, React and learning Java. 
+Actually in my job I am a technical leader and a senior full stack developer. I'm developing systems with Laravel, Angular, Python, NodeJS and more... You cand find the technologies I use frequently below this.
 
 ## 📄 About Me
 
