@@ -86,4 +86,4 @@ Currently building **conversational AI flows** integrating WhatsApp Business API
 | **Legaltech** | Document lifecycle management (request → review → approval → e-signature → delivery), compliance systems, PII handling |
 | **Logistics** | Fleet tracking with SAP integration, cargo operations, driver hour logging, inventory management, supply chain (textile & food) |
 | **Security** | Surveillance management systems, guard assignment, entry/exit tracking via national ID verification, access control |
-| **Regulatory Compliance** | Veterinary business registration with RUT/tax ID validation against Colombian legal standards |
+| **Regulatory Compliance** | Business registration with RUT/tax ID validation against some countries legal standards |
