@@ -11,7 +11,7 @@
 
 I build software that handles sensitive data, complex business rules, and real-world operations at scale.
 
-Over **6+ years**, I've worked across **fintech** (credit systems, card issuance, payment processing, transactions), **legaltech** (document lifecycle management with electronic signatures), **logistics** (fleet tracking, cargo management, supply chain), and **security** (surveillance systems, access control, ID verification) — always with a focus on robust architectures, clean code, and measurable business impact.
+Over **7+ years**, I've worked across **fintech** (credit systems, card issuance, payment processing, transactions), **legaltech** (document lifecycle management with electronic signatures), **logistics** (fleet tracking, cargo management, supply chain), and **security** (surveillance systems, access control, ID verification) — always with a focus on robust architectures, clean code, and measurable business impact.
 
 Currently building **conversational AI flows** integrating WhatsApp Business API and OpenAI/LLM agents for corporate automation at NativApps (Miami), orchestrating chatbots, sales processing, logistics workflows, and distribution ecosystems across B2B and B2C channels.
 
